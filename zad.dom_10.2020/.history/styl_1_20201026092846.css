@@ -2,6 +2,7 @@
     /* margin: 0;
     padding: 0; */
     font-family: Verdana, sans-serif;
+    max-width: 1140px;
 }
 
 .banner,
@@ -20,20 +21,19 @@ footer {
 
 .left-column {
     position: absolute;
-    width: 40%;
+    width: 40vw;
     height: 500px;
-    top: 0;
-    left: 0;
-    padding-left: 15px;
+    /* top: 0;
+    left: 0; */
     background-color: #40E0D0;
 }
 
 .right-column {
     position: absolute;
-    width: 60%;
+    width: 60vw;
     height: 500px;
-    top: 0;
-    right: 0;
+    /* top: 0;
+    right: 0; */
     background-color: #40E0D0;
 }
 

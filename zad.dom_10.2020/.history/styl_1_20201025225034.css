@@ -1,0 +1,47 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.header {
+    color: green;
+}
+
+.right-colun {
+    max-width: 50vw;
+    height: 100%;
+}
+
+img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+footer ul {
+    padding: 48px 10px;
+    text-align: center;
+
+}
+
+footer li {
+    display: inline-block;
+    font-size: 30px;
+    line-height: 60px;
+}
+
+.fab {
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+    padding-top: 13px;
+    font-size: 30px;
+    cursor: pointer;
+    background-color: green;
+    color: white;
+}
+
+i:hover {
+    transform: scale(1.2);
+}

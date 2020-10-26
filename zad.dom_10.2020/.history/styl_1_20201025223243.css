@@ -1,0 +1,15 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.header {
+    color: green;
+}
+
+.icon li a {
+    display: inline;
+    font-size: 30px;
+    color: rgb(139, 129, 129);
+}
