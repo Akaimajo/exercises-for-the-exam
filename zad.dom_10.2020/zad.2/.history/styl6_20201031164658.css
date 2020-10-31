@@ -41,7 +41,7 @@ main {
     align-content: center;
 }
 
-.row {
+div {
     text-align: center;
     line-height: 90px;
     border: 1px solid #3CB371;
