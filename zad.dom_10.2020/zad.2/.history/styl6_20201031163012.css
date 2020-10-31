@@ -1,16 +1,13 @@
 * {
-    max-width: 1120px;
     font-family: Georgia, 'Times New Roman', Times, serif;
 }
 
-/* header */
 header {
     display: flex;
     height: 100px;
     margin-bottom: 20px;
     color: #fff;
 }
-
 
 #first-block,
 #second-block,
@@ -46,18 +43,12 @@ div {
     background-color: #FFDAB9;
 }
 
-/* footer */
 footer {
     background-color: #3CB371;
     color: #fff;
 }
 
 footer p:first-child {
-    padding: 20px 0 10px 10px;
-    font-size: 25px;
-}
-
-footer p:nth-child(2),
-h2 {
-    padding: 20px 0 20px 10px;
+    margin: 10px 0 10px 10px;
+    font-size: 200px;
 }
